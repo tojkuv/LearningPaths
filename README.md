@@ -1,1 +1,1 @@
-# MSLearn
+# Learning Paths
