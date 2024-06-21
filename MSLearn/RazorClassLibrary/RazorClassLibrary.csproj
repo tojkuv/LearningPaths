@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<PackageId>MSLearn.RazorClassLibrary</PackageId>
+		<Version>0.1.0</Version>
+		<Authors>Livan Torres</Authors>
+		<Company>MSLearn</Company>
+		<Description>This is a Razor component library with a stylized modal window component</Description>
+	</PropertyGroup>
+
+
+	<ItemGroup>
+		<SupportedPlatform Include="browser" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.2" />
+	</ItemGroup>
+
+</Project>

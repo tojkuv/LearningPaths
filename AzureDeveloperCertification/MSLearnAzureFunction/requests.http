@@ -1,0 +1,4 @@
+### Test HttpExample Function
+GET https://mslearnfunction12348789724.azurewebsites.net/api/Function1?
+{ "name": "World" }
+
