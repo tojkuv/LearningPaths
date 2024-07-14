@@ -1,4 +1,4 @@
-namespace BlazingPizza.Data;
+namespace BlazorBlazingPizza.Data;
 
 public sealed class PizzaStoreContext(DbContextOptions options)
     : DbContext(options)

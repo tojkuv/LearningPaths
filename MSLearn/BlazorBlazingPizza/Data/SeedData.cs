@@ -1,4 +1,4 @@
-namespace BlazingPizza.Data;
+namespace BlazorBlazingPizza.Data;
 
 internal static class SeedData
 {

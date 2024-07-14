@@ -1,4 +1,4 @@
-﻿namespace BlazingPizza.Models;
+﻿namespace BlazorBlazingPizza.Models;
 
 public class Order
 {

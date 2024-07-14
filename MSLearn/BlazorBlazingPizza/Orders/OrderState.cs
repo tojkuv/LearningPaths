@@ -1,4 +1,4 @@
-namespace BlazingPizza;
+namespace BlazorBlazingPizza;
 
 public class OrderState
 {

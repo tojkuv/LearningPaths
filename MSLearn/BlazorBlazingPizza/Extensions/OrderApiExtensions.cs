@@ -1,4 +1,4 @@
-﻿namespace BlazingPizza.Extensions;
+﻿namespace BlazorBlazingPizza.Extensions;
 
 public static class OrderApiExtensions
 {

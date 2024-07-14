@@ -1,4 +1,4 @@
-﻿namespace BlazingPizza.Models;
+﻿namespace BlazorBlazingPizza.Models;
 
 /// <summary>
 /// Represents a customized pizza as part of an order

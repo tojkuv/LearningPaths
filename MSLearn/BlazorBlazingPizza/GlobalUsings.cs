@@ -1,7 +1,7 @@
-﻿global using BlazingPizza;
-global using BlazingPizza.Data;
-global using BlazingPizza.Extensions;
-global using BlazingPizza.Models;
+﻿global using BlazorBlazingPizza;
+global using BlazorBlazingPizza.Data;
+global using BlazorBlazingPizza.Extensions;
+global using BlazorBlazingPizza.Models;
 
 global using Microsoft.AspNetCore.Mvc;
 global using Microsoft.EntityFrameworkCore;
